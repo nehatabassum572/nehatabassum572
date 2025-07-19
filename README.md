@@ -47,6 +47,7 @@ Fields_of_interests:
     "Machine Learning",
     "NLP",
     "Computer Vision",
+    "Neural Networks",
   ]
 Technical_background:
   [
