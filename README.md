@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a passionate Computer Science student who loves solving real-world problems through code. I enjoy working on projects involving Python, C++, and web technologies. Currently, I'm focused on improving my skills in Data Structures & Algorithms and exploring new tools in software development.<br></p>
+<p align="left">I'm a passionate Computer Science student who loves solving real-world problems through code. I enjoy working on projects involving Python, C++, Machine Learning, and web technologies. Currently, I'm focused on improving my skills in Data Structures & Algorithms and exploring new tools in software development.<br></p>
 
 ###
 
