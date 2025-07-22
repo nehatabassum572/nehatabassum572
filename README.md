@@ -89,5 +89,5 @@ Hobbies: ["Baking", "Cinema", "Painting", "Comedy"]
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
