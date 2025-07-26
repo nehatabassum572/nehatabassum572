@@ -45,9 +45,7 @@ Fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "NLP",
     "Computer Vision",
-    "Neural Networks",
   ]
 Technical_background:
   [
@@ -55,9 +53,9 @@ Technical_background:
     "Intern - Software Developer",
   ]
   
-Currently_learning: ["CNN, Flask, React, Node.js"]
+Currently_learning: ["CNN, Express.js"]
 2025 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
-Hobbies: ["Baking", "Cinema", "Painting", "Comedy"]
+Hobbies: ["Baking", "Painting"]
 
 ```
   
