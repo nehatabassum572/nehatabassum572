@@ -31,31 +31,49 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-Name: Neha Tabassum
-Located_in: India
-Current_status: Final Year Student
-Gmail: tabassumneha572@gmail.com 
-Education:
-  [
-    "Bachelor's in Computer Science & Engineering",
-  ]
+class Bio {
+  constructor() {
+    this.aboutMe = {
+      name: "Neha Tabassum",
+      description: "ML Engineer, Fullstack Developer, Final Year Student",
+      status: "Living my best life", "learning Node.js, Next.js , and Optimization",
+      goalsFor2025: ["Learn", "Get a Job", "Improve"],
+      Hobbies: ["Baking", "Painting"]
+    };
 
-Fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "Computer Vision",
-  ]
-Technical_background:
-  [
-    "Programmer & Developer"
-    "Intern - Software Developer",
-  ]
-  
-Currently_learning: ["CNN, Express.js"]
-2025 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
-Hobbies: ["Baking", "Painting"]
+     this.workExperience = [
+      {
+        role: "Project Intern",
+        company: "Hashcron Technologies",
+        duration: "2 months",
+        responsibilities: "Worked on Joget projects and contributed to front-end development."
+      }
+    ];
+
+    this.AreasOfInterest = {
+      "Data Analytics",
+      "LLMs",
+      "Computer Vision"
+    };
+    
+    this.randomStuff = {
+      funFact: "More people are killed annually by donkeys than airplane crashes.",
+      advice: "Do not compare yourself with others."
+    };
+
+    this.socialLinks = {
+          linkedin: "https://linkedin.com/in/bishwa777",
+          Gmail: "tabassumneha572@gmail.com"
+        };
+  }
+
+  display() {
+    console.log(this);
+  }
+}
+
+const bio = new Bio();
+bio.display();
 
 ```
   
