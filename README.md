@@ -37,6 +37,7 @@ class Bio {
       name: "Neha Tabassum",
       description: "ML Engineer, Fullstack Developer, Final Year Student",
       status: "Living my best life", "learning Node.js, Next.js , and Optimization",
+      gmail: "tabassumneha572@gmail.com"
       goalsFor2025: ["Learn", "Get a Job", "Improve"],
       Hobbies: ["Baking", "Painting"]
     };
@@ -60,12 +61,6 @@ class Bio {
       funFact: "More people are killed annually by donkeys than airplane crashes.",
       advice: "Do not compare yourself with others."
     };
-
-    this.socialLinks = {
-          linkedin: "https://linkedin.com/in/bishwa777",
-          Gmail: "tabassumneha572@gmail.com"
-        };
-  }
 
   display() {
     console.log(this);
